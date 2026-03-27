@@ -3,6 +3,7 @@
 Atividades com Estruturas Condicionais em Java
 
 **&& = e**
+
 **|| = ou**
 
 **1. Verificação de Idade e Nacionalidade**
