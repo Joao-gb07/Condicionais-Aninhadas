@@ -2,6 +2,9 @@
 
 Atividades com Estruturas Condicionais em Java
 
+**&& = e**
+**|| = ou**
+
 **1. Verificação de Idade e Nacionalidade**
 Crie um programa que verifique se um usuário tem acesso permitido baseado em sua idade e nacionalidade. O acesso é permitido se a pessoa tiver 18 anos ou mais e for brasileira.
 
